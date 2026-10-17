@@ -22,11 +22,11 @@
 ## ⚔️ SKILL LEVELS
 
 ```text
-PYTHON      ██████░░░░  LV 6
-RAG / LLM   █████░░░░░  LV 5
-LANGCHAIN   ████░░░░░░  LV 4
-DOCKER      ███░░░░░░░  LV 3
-AWS         ███░░░░░░░  LV 3
+PYTHON     🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛  LV 6
+RAG / LLM  🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛  LV 5
+LANGCHAIN  🟩🟩🟩🟩⬛⬛⬛⬛⬛⬛  LV 4
+DOCKER     🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛  LV 3
+AWS        🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛  LV 3
 ```
 
 ## 🎯 CURRENT MISSIONS
@@ -39,8 +39,6 @@ AWS         ███░░░░░░░  LV 3
 <div align="center">
 
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
-
-<img src="https://komarev.com/ghpvc/?username=AravindDS04&label=PLAYERS+VISITED&color=00FF9C&style=for-the-badge" alt="Visitor counter" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&color=00FF9C&center=true&vCenter=true&width=500&height=40&lines=THANKS+FOR+VISITING;PRESS+START+TO+CONTINUE" alt="Footer" />
 
