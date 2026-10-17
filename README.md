@@ -11,7 +11,7 @@
 ## 👾 PLAYER PROFILE
 
 - 🎓 CLASS: Masters in Informatics
-- 💼 QUEST: Working on chatbots, Agentic AI and accessibility
+- 💼 QUEST: Working Student focusing on building chatbots, Agentic AI and accessibility
 - 🌱 LEARNING: Python and RAG
 
 ## 🕹️ INVENTORY (TOOLS)
