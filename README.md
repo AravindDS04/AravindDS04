@@ -1,16 +1,21 @@
-## Hi there 👋
+<!-- Animated wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!&fontSize=50" width="100%"/>
 
-<!--
-**AravindDS04/AravindDS04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing animation: change the words after "lines=" -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=I+build+LLM+and+RAG+apps;I+am+learning+every+day;Welcome+to+my+profile" />
+</div>
 
-Here are some ideas to get you started:
+## About me
+- 🎓 Student in Informatics
+- 💼 Working on chatbots and AI
+- 🌱 Learning Python and RAG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,js,html,css" />
+
+## My GitHub stats
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<!-- Animated footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
