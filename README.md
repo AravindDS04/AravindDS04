@@ -14,8 +14,6 @@
 ## Tools I use
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode,js,html,css" />
 
-## My GitHub stats
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 
 <!-- Animated footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
