@@ -4,13 +4,11 @@
 
 </div>
 👾 PLAYER PROFILE
-🎓 CLASS: Student in Informatics
-💼 QUEST: Working on chatbots and AI
+🎓 CLASS: Masters in Informatics
+💼 QUEST: Working on chatbots, Agentic AI and accessibility
 🌱 LEARNING: Python and RAG
 🕹️ INVENTORY (TOOLS)
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode,js,docker,aws,npm" alt="Tools" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-🏆 SCOREBOARD
-<img src="https://github-readme-stats.vercel.app/api?username=AravindDS04&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub stats" /> <div align="center">
 
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 
